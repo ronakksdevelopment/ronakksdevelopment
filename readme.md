@@ -1,30 +1,110 @@
-# 👋 Hi, I'm ROnakk (`@ronakksdevelopment`)
+```markdown
+# 🖨️ SharePrint App
 
-Welcome to my GitHub profile! I’m a passionate FiveM developer specializing in creating open-source scripts for QBCore and other frameworks. My goal is to make high-quality, unique scripts accessible to everyone for free, including unlocking exclusive MLOs.
+SharePrint App is a **simple browser-based peer-to-peer (P2P) printing utility** designed for **fast and automatic document printing directly from a web interface**. It is useful for environments where quick printing is required without repeatedly opening the print dialog.
 
-## 👀 My Interests
-- **FiveM Script Development:** Crafting innovative and user-friendly scripts that enhance the gameplay experience for servers.
-- **Open Source Contributions:** Sharing my work with the community to help others build their servers and learn from my code.
-- **Community Building:** Developing a network of developers and players who can collaborate, share ideas, and grow together.
+The project works best with **Google Chrome kiosk printing mode**, allowing documents to print instantly to the default printer.
 
-## 🌱 What I'm Currently Learning
-- **Programming Languages:** Deepening my knowledge of languages and tools essential for creating more powerful and efficient FiveM scripts.
-- **MLO Unlocking:** Working on techniques to unlock and share premium MLOs, making them available for free to the community.
+## 🌐 Links
 
-## 💞️ What I'm Looking to Collaborate On
-- **FiveM Server Development:** Seeking an investor and a dedicated team to build a unique and engaging FiveM server from the ground up.
-- **Script Ideas:** I'm open to suggestions for new scripts. If you have an idea, feel free to share it—I'll create it for free, helping both of us grow and innovate.
+* **Live Demo:** [SharePrint App Demo](https://ronakksdevelopment.github.io/SharePrint-App/)
+* **GitHub Repository:** [ronakksdevelopment/SharePrint-App](https://github.com/ronakksdevelopment/SharePrint-App)
 
-## 📫 How to Reach Me
-- **Discord Community:** [Join My Discord Server](https://discord.gg/aQRtcqcuAU) for free scripts, updates, and to share your ideas.
-- **Discord Direct Contact:** Reach out to me directly on Discord with the username `@beingronakk`.
+## ✨ Features
 
-## 😄 Pronouns
-- **He/Him** (I'm a college student with a passion for development)
+* **Fast Browser-Based Printing:** Lightning-fast peer-to-peer WebRTC connection for immediate file transfer.
+* **Automatic Printing Support:** Bypasses the traditional print preview for a seamless experience.
+* **No Print Dialog Popup:** Achieves 100% silent printing using Chrome's kiosk mode flags.
+* **Instant Document Printing:** Send PDFs and images directly to the host printer from any device.
+* **Works with Google Chrome:** Optimized for Chrome's specific kiosk and printing capabilities.
+* **Easy Setup and Usage:** Runs directly from the browser with zero installation or drivers needed.
 
-## ⚡ Fun Fact
-- **Free Resources for All:** I take pride in creating the best and most unique FiveM scripts, which are often paid, but I make them available for free, including MLOs and other assets. Join my Discord for exclusive content and contribute your ideas—let's create something amazing together!
+## 🧠 How It Works
+
+* **The Core Function:** The application triggers printing using the browser’s built-in JavaScript function:
+
+```javascript
+window.print();
+
+```
+
+* **Kiosk Mode Magic:** When **Google Chrome** is launched with the `--kiosk-printing` flag, the browser **skips the print dialog** and directly sends the document to the **default printer**.
+
+## ⚙️ Chrome Kiosk Printing Setup (Windows)
+
+To enable **automatic silent printing**, launch Google Chrome using the following command:
+
+```cmd
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --kiosk --kiosk-printing [https://ronakksdevelopment.github.io/SharePrint-App/](https://ronakksdevelopment.github.io/SharePrint-App/)
+
+```
+
+This command will:
+
+* **Launch Google Chrome** directly to the web application.
+* **Open the SharePrint App** automatically.
+* **Enable Kiosk Mode** for a fullscreen, distraction-free interface.
+* **Enable Silent Printing** to bypass the standard print dialog.
+* **Print Directly** to the default printer immediately upon receiving a file.
+
+## 🖥️ Create Desktop Shortcut (Recommended)
+
+* **Step 1:** Right-click on your **Desktop**
+* **Step 2:** Select **New → Shortcut**
+* **Step 3:** Paste the following command:
+
+```cmd
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --kiosk --kiosk-printing [https://ronakksdevelopment.github.io/SharePrint-App/](https://ronakksdevelopment.github.io/SharePrint-App/)
+
+```
+
+* **Step 4:** Click **Next**
+* **Step 5:** Name the shortcut (e.g., `SharePrint Kiosk`)
+* **Step 6:** Click **Finish**
+
+Opening this shortcut will launch Chrome with **automatic printing enabled**.
+
+## 🪟 Silent Printing Without Fullscreen
+
+If you do not want fullscreen kiosk mode but still want the silent printing feature, use:
+
+```cmd
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --kiosk-printing [https://ronakksdevelopment.github.io/SharePrint-App/](https://ronakksdevelopment.github.io/SharePrint-App/)
+
+```
+
+This keeps the normal Chrome window but still enables **silent printing**.
+
+## 🖨️ Set Default Printer
+
+Before using kiosk printing, make sure your printer is configured:
+
+* **1.** Open **Google Chrome**
+* **2.** Press **Ctrl + P** to open the print dialog
+* **3.** Select your preferred physical printer
+* **4.** Set it as the **default printer** in your OS settings
+
+Chrome will automatically send print jobs to this printer from now on.
+
+## ⌨️ Exit Kiosk Mode
+
+* **Close the App:** To close the fullscreen kiosk mode, simply press `Alt + F4`.
+
+## 💡 Use Cases
+
+* **Print Kiosks:** Setup a dedicated iPad or tablet next to a PC for customers to print.
+* **Cyber Café Printing Stations:** Allow users to print directly from their phones to a master printer.
+* **POS Receipt Printing:** Send receipts from a mobile ordering device to a central counter printer.
+* **Office Printing Dashboards:** Quick, frictionless printing without installing network drivers on every employee's phone.
+
+## 📄 License
+
+* **Open Source:** This project is open-source and available for educational and practical use. Feel free to use and modify it!
 
 ---
 
-> This profile is a hub for all things FiveM. Whether you're looking for free scripts, want to collaborate, or just need inspiration, you're in the right place. Join the community and let's build something incredible!
+> ⭐ If you find this project useful, consider **starring the repository**. This app is a hub for seamless P2P printing—enjoy printing without boundaries!
+
+```
+
+```
