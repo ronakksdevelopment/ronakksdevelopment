@@ -1,30 +1,38 @@
 # 👋 Hi, I'm ROnakk (`@ronakksdevelopment`)
 
-Welcome to my GitHub profile! I’m a passionate FiveM developer specializing in creating open-source scripts for QBCore and other frameworks. My goal is to make high-quality, unique scripts accessible to everyone for free, including unlocking exclusive MLOs.
+### 🚀 Prompt Engineer | AI-Driven Full-Stack Developer | Rapid Prototyping Specialist
 
-## 👀 My Interests
-- **FiveM Script Development:** Crafting innovative and user-friendly scripts that enhance the gameplay experience for servers.
-- **Open Source Contributions:** Sharing my work with the community to help others build their servers and learn from my code.
-- **Community Building:** Developing a network of developers and players who can collaborate, share ideas, and grow together.
+Welcome to my GitHub! I’ve evolved from my roots in specialized FiveM scripting into a full-scale **AI-Driven App & Web Developer**. Armed with a BA in English Honors—which gives me a unique edge in Prompt Engineering—I specialize in "vibe coding." 
 
-## 🌱 What I'm Currently Learning
-- **Programming Languages:** Deepening my knowledge of languages and tools essential for creating more powerful and efficient FiveM scripts.
-- **MLO Unlocking:** Working on techniques to unlock and share premium MLOs, making them available for free to the community.
-
-## 💞️ What I'm Looking to Collaborate On
-- **FiveM Server Development:** Seeking an investor and a dedicated team to build a unique and engaging FiveM server from the ground up.
-- **Script Ideas:** I'm open to suggestions for new scripts. If you have an idea, feel free to share it—I'll create it for free, helping both of us grow and innovate.
-
-## 📫 How to Reach Me
-- **Discord Community:** [Join My Discord Server](https://discord.gg/aQRtcqcuAU) for free scripts, updates, and to share your ideas.
-- **Discord Direct Contact:** Reach out to me directly on Discord with the username `@beingronakk`.
-
-## 😄 Pronouns
-- **He/Him** (I'm a college student with a passion for development)
-
-## ⚡ Fun Fact
-- **Free Resources for All:** I take pride in creating the best and most unique FiveM scripts, which are often paid, but I make them available for free, including MLOs and other assets. Join my Discord for exclusive content and contribute your ideas—let's create something amazing together!
+By leveraging advanced LLMs, I translate complex ideas into flawless, professional, and bug-free codebases at lightning speed. Whether it's a dynamic web app, a mobile interface, or a sprawling SaaS platform across **any category**, I turn what used to be months of long-term development into minutes of hyper-efficient execution.
 
 ---
 
-> This profile is a hub for all things FiveM. Whether you're looking for free scripts, want to collaborate, or just need inspiration, you're in the right place. Join the community and let's build something incredible!
+## ⚡ My Arsenal & "Vibe Coding" Stack
+- **Core Technologies:** React.js, JavaScript (ES6+), HTML5, CSS3.
+- **AI & LLM Mastery:** Claude, Gemini, GitHub Copilot.
+- **Development Paradigm:** Rapid prototyping, AI-assisted architecture, and deploying highly optimized, zero-bug applications.
+
+## 🔭 What I'm Currently Working On
+- **[My Portfolio Site](https://ronakksdevelopment.github.io/portfolio/):** 100% custom "vibe coded" using advanced LLM workflows. Check it out to see AI-driven UI/UX in action!
+- **[AuraFarm](https://ronakksdevelopment.github.io/aurafarm/):** Recently launched this new course/platform initiative—always expanding and building out new ideas.
+- **Machine Learning:** Currently diving deeper into ML to integrate even more native AI capabilities into my freelance work.
+- **FiveM Development:** I still show love to the FiveM community! I continue to drop open-source QBCore scripts and unlock premium MLOs for free, though my primary focus has expanded beyond the framework.
+
+## 💞️ Let's Collaborate!
+I am highly adaptable and currently open to all types of opportunities:
+- **Freelance Contracts:** Need a complex, polished website or app built faster than traditional agencies can deliver? Let's talk.
+- **Startups & Open Source:** Seeking to team up with forward-thinking creators on AI-powered projects.
+- **FiveM Ambitions:** Still open to collaborating on unique, ground-up FiveM server concepts.
+
+## 📫 How to Reach Me
+- **Discord Direct Contact:** Reach out to me directly at `@ronakksdevelopment`
+- **Portfolio:** [Explore My Work](https://ronakksdevelopment.github.io/portfolio/)
+- **AuraFarm:** [Check out my new course platform](https://ronakksdevelopment.github.io/aurafarm/)
+
+## 🎯 Fun Fact
+> **I can deploy a full-stack, bug-free application in the time it takes most people to set up their development environment, thanks to advanced LLM workflows.**
+
+---
+
+*Let's build the impossible, instantly.* 🚀
