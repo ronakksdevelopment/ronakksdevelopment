@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a,770000,FF0000,770000,0a0a0a&height=200&section=header&text=RONAKK.DEV&fontSize=72&fontAlignY=40&fontColor=ffffff&desc=AI-Driven%20Architect%20%7C%20Prompt%20Specialist%20%7C%20FiveM%20%26%20RedM%20Engineer&descAlignY=62&descSize=15&descColor=aaaaaa" alt="ROnakk" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=RONAKK.DEV&fontSize=72&fontAlignY=40&fontColor=ffffff&desc=AI-Driven%20Architect%20%7C%20Prompt%20Specialist%20%7C%20FiveM%20%26%20RedM%20Engineer&descAlignY=62&descSize=15&descColor=cccccc" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Architecting+production-ready+apps+in+minutes.;Prompt+Engineering+%2B+English+Honours+%3D+Lethal.;FiveM+%26+RedM+scripts+at+0.00ms+overhead.;MVPs.+Not+mockups.+Not+excuses." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Architecting+production-ready+apps+in+minutes.;Prompt+Engineering+%2B+English+Honours+%3D+Lethal.;FiveM+%26+RedM+scripts+at+0.00ms+overhead.;MVPs.+Not+mockups.+Not+excuses." />
 
 </div>
 
@@ -82,14 +82,14 @@ I don't write boilerplate. I operate top-tier LLMs as hyper-capable pair program
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ronakksdevelopment&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=FF0000&icon_color=FF0000&text_color=ffffff&hide_border=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronakksdevelopment&theme=github-dark&background=0d1117&ring=FF0000&fire=FF0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF0000&sideLabels=888888&dates=888888&hide_border=true" width="49%" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ronakksdevelopment&show_icons=true&theme=github_dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&hide_border=true&count_private=true" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app?user=ronakksdevelopment&theme=github-dark-blue&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&hide_border=true" width="49%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakksdevelopment&layout=compact&theme=github_dark&bg_color=0d1117&title_color=FF0000&text_color=ffffff&hide_border=true&langs_count=8" width="49%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakksdevelopment&layout=compact&theme=github_dark&title_color=FF0000&text_color=ffffff&hide_border=true&langs_count=8" width="49%" />
 
 </div>
 
@@ -121,14 +121,12 @@ Fielding **high-impact opportunities only.** If you're building something real, 
 
 <div align="center">
 
-*"I can architect, debug, and deploy a full-stack production-ready application in the exact time it takes*
-*an average developer to figure out why their local environment is crashing.*
-*The future of coding isn't typing — it's directing."*
+*"I can architect, debug, and deploy a full-stack production-ready application in the exact time it takes an average developer to figure out why their local environment is crashing. The future of coding isn't typing — it's directing."*
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a,770000,FF0000,770000,0a0a0a&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer" />
 
 </div>
