@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,770000,ff0000,ffffff&height=250&section=header&text=ROnakk's%20Domain&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI-Driven%20Architect%20|%20Vibe%20Coder%20|%20Prompt%20Specialist&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,30&height=250&section=header&text=ROnakks%20Development&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI-Driven%20Architect%20|%20Vibe%20Coder%20|%20Prompt%20Specialist&descAlignY=55&descAlign=50"/>
 </div>
 
 <div align="center">
@@ -9,10 +9,18 @@
 </div>
 
 <div align="center">
-  <a href="https://ronakksdevelopment.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&border=red"></a>
-  <a href="https://ronakksdevelopment.github.io/aurafarm/"><img src="https://img.shields.io/badge/AuraFarm-FF0000?style=for-the-badge&logo=codeigniter&logoColor=white"></a>
-  <a href="https://github.com/ronakksdevelopment?tab=repositories"><img src="https://img.shields.io/badge/Repositories-FFFFFF?style=for-the-badge&logo=github&logoColor=black"></a>
-  <a href="https://discord.gg/aQRtcqcuAU"><img src="https://img.shields.io/badge/Join_My_Discord-000000?style=for-the-badge&logo=discord&logoColor=FF0000&border=red"></a>
+  <a href="https://ronakksdevelopment.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://ronakksdevelopment.github.io/aurafarm/">
+    <img src="https://img.shields.io/badge/AuraFarm-FF0000?style=for-the-badge&logo=codeigniter&logoColor=white">
+  </a>
+  <a href="https://github.com/ronakksdevelopment?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-FFFFFF?style=for-the-badge&logo=github&logoColor=black">
+  </a>
+  <a href="https://discord.gg/aQRtcqcuAU">
+    <img src="https://img.shields.io/badge/Join%20My%20Discord-000000?style=for-the-badge&logo=discord&logoColor=FF0000">
+  </a>
 </div>
 
 <br>
@@ -25,7 +33,7 @@
 
 Welcome to the absolute apex of development velocity and precision. I am **ROnakk**, an elite **AI-Driven Full-Stack Architect** and **Rapid Prototyping Specialist**. Backed by a BA in English Honors, I possess a distinct mastery of semantic structure, making me a lethal **Prompt Engineer**. 
 
-I don't just write code; **I vibe code.** By operating top-tier LLMs as hyper-capable pair programmers, I bypass traditional boilerplate limitations. I architect sprawling web apps, dynamic mobile interfaces, and deeply optimized game servers—compressing months of traditional agency work into a matter of minutes. **Zero bugs. Absolute perfection. Infinite scaling.**
+I don't just write code; **I vibe code.** By operating top-tier LLMs as hyper-capable pair programmers, I bypass traditional boilerplate limitations. I architect sprawling web apps, dynamic mobile interfaces, and deeply optimized game servers—compressing months of traditional agency work into a matter of minutes.
 
 <br>
 
@@ -66,47 +74,12 @@ I don't just write code; **I vibe code.** By operating top-tier LLMs as hyper-ca
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%">
 </div>
 
-## 🚀 Current Ventures & Conquests
-
-| 🌐 Platform | ⚡ Description | 🔗 Link |
-| :--- | :--- | :--- |
-| **Digital Portfolio** | A visually stunning, 100% custom "vibe coded" showcase built natively through advanced LLM workflows. | [View Portfolio](https://ronakksdevelopment.github.io/portfolio/) |
-| **AuraFarm** | My exclusive platform and course initiative. Designed to share elite knowledge and farm pure development aura. | [Explore AuraFarm](https://ronakksdevelopment.github.io/aurafarm/) |
-| **Machine Learning Evolution** | Expanding my neural network to integrate native, intelligent AI features into bespoke applications. | *In Development* |
-| **The Rockstar Legacy** | Actively commanding the FiveM/RedM space—engineering 0.00ms optimized scripts and unlocking premium MLOs. | [View Repositories](https://github.com/ronakksdevelopment?tab=repositories) |
-
-<br>
-
-## 📊 Real-Time Operations Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronakksdevelopment&show_icons=true&theme=dark&bg_color=000000,110000,000000&title_color=FF0000&icon_color=FFFFFF&text_color=FFFFFF&hide_border=true&ring_color=FF0000" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronakksdevelopment&theme=dark&background=000000,110000,000000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=CCCCCC&dates=CCCCCC&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakksdevelopment&layout=compact&theme=dark&bg_color=000000&title_color=FF0000&text_color=FFFFFF&hide_border=true" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%">
-</div>
-
 ## 🤝 Establish Connection (Collaborations Open)
-
-I am operating at a velocity that shatters traditional timelines. I am actively fielding high-impact, elite opportunities:
-
-* **⚡ Freelance & Contract Work:** Need a complex SaaS, heavy E-commerce site, or a flawless app? My AI-driven workflow outperforms, outpaces, and out-designs traditional agencies.
-* **⚡ Startup Co-Founding:** Seeking visionaries who need a technical powerhouse to instantly convert their ideas into market-ready MVPs.
-* **⚡ Ground-Up Server Architecture:** Seeking serious investors to build deeply immersive, groundbreaking FiveM/RedM servers on custom frameworks.
 
 <div align="center">
   <h3>🔥 Reach Me Directly 🔥</h3>
   <a href="https://discord.gg/aQRtcqcuAU">
-    <img src="https://img.shields.io/badge/Discord_Community-Join_Now-000000?style=for-the-badge&logo=discord&logoColor=FF0000&border=white" alt="Discord Community" />
+    <img src="https://img.shields.io/badge/Discord%20Community-Join%20Now-000000?style=for-the-badge&logo=discord&logoColor=FF0000" />
   </a>
   <br><br>
   <b>Direct Discord Username:</b> <code>@ronakksdevelopment</code>
@@ -115,12 +88,5 @@ I am operating at a velocity that shatters traditional timelines. I am actively 
 <br>
 
 <div align="center">
-  
-> ### ⚡ THE ULTIMATE FLEX ⚡
-> *I can architect, debug, and deploy a full-stack, production-ready application in the exact time it takes an average developer to figure out why their local environment is crashing. The future of coding isn't typing; it's directing. Let's build the impossible.*
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,770000,ff0000,000000&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,30&height=100&section=footer"/>
 </div>
